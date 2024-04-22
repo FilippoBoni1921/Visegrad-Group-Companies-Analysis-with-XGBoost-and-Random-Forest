@@ -1,0 +1,14 @@
+{
+    "randomforest_test_results": {
+        "Test Accuracy": 0.7185964912280701,
+        "Recall": 0.5082396213822,
+        "Precision": 0.7942709918689325,
+        "F1 Score": 0.5789501637062531
+    },
+    "xgb_test_results": {
+        "Test Accuracy": 0.7824561403508772,
+        "Recall": 0.6329425410253623,
+        "Precision": 0.7700611649389087,
+        "F1 Score": 0.6818044701086533
+    }
+}
